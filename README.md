@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/owospace/messy-dots/master/assets/ss.png" width="260" height="148">
+  <img src="https://raw.githubusercontent.com/owospace/messy-dots/master/assets/ss.png" width="1920" height="1080">
   <h1 align="center">messy-dots</h1>
 
   <p align="center">
