@@ -1,5 +1,12 @@
-# messy-dots
-maple's messy dot files (i3-gaps)
+<div align="center">
 
+  <img src="https://raw.githubusercontent.com/owospace/messy-dots/master/assets/ss.png" width="160" height="148">
+  <h1 align="center">messy-dots</h1>
 
-will sort this out when i get around to re-writing all these systems. mua <3
+  <p align="center">
+    My Arch Linux i3-gaps dots files.<br>
+    <a href="https://github.com/owospace/messy-dots#getting-started"><strong>Setup (soon) »</strong></a>
+    <br>
+  </p>
+
+</div><br><br>
