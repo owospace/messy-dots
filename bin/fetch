@@ -1,5 +1,10 @@
 #!/bin/sh
 
+# This is just an edited version of 'fetch' by 'Manas140'
+# Please note that this is currently configured for **BASE ARCH LINUX** systems.
+# Therefore, the package count (most likely definitely not) work for other systems. 
+# https://github.com/Manas140/fetch/blob/main/fetch
+
 # Colors
 c() { printf "\033[%s;%sm" "$1" "$2"; }
 
@@ -18,7 +23,6 @@ Kernel() {
 }
 Packages() {
   pacman -Q | wc -l;
-  #printf "392";
 }
 Uptime() {
   IFS=. read -r up _ < /proc/uptime;
