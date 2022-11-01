@@ -1,0 +1,13 @@
+#!/bin/sh
+
+conf() {
+  printf "
+  $(c 0 0)$(c 1 34) OS   ⦁ Arch Linux ($(Kernel))
+  $(c 0 0)$(c 1 34) PAC  ⦁ $(Packages) (pacman)
+  $(c 0 0)$(c 1 32)神UP   ⦁ $(Uptime)
+  $(c 0 0)$(c 1 33) SH   ⦁ fsh
+  $(c 0 0)$(c 1 35) MEM  ⦁ $(Memory)
+
+  $(c 1 30)  $(c 1 31)  $(c 1 32)  $(c 1 33)  $(c 1 34)  $(c 1 35)  $(c 1 36)  $(c 1 37)  $(c 0 0)
+  \n"
+}
